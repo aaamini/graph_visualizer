@@ -1,6 +1,6 @@
 # graph_visualizer
 
-A package for visualizing graphs from `torch_geometric` datasets using 3d-force-graph.
+A package for visualizing graphs from [torch_geometric datasets](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html) using 3d-force-graph.
 
 ## Installation
 
