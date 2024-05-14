@@ -1,6 +1,6 @@
 # graph_visualizer
 
-A package for visualizing graphs using 3d-force-graph.
+A package for visualizing graphs from `torch_geometric` datasets using 3d-force-graph.
 
 ## Installation
 
